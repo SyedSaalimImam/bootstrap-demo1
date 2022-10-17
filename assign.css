@@ -1,0 +1,377 @@
+.b1{
+ text-decoration: none;
+ overflow: hidden;
+}
+.b2{
+    text-decoration: none;
+    overflow: hidden;
+    
+   }
+
+
+   .b3{
+    text-decoration: none;
+    overflow: hidden;
+   }
+   .b4{
+    text-decoration: none;
+    overflow: hidden;
+   }   
+   .b5{
+    text-decoration: none;
+    overflow: hidden;
+   }
+   .b6{
+    text-decoration: none;
+    overflow: hidden;
+   }
+   .b7{
+    text-decoration: none;
+    overflow: hidden;
+   }
+   .b8{
+    text-decoration: none;
+    overflow: hidden;
+   }
+   .b9{
+    text-decoration: none;
+    overflow: hidden;
+   }
+.img1{
+    background-image: url(ui-design.png);
+    width: 35vw;
+    height: 90vh;
+
+}
+.h1{
+    padding-top: 15%;
+}
+.fa-check{
+    color: green;
+}
+
+.fa-bullhorn{
+    color: green;
+}
+.fa-gem{
+    color: red;
+}
+.fa-gauge-high{
+    color: blue;
+}
+.img2{
+    background-image: url(https://demo.epic-webdesign.com/tf-smart/v1/images/testimonials2.jpg);
+   width: 40vw;
+   height: 60vh;
+   
+}
+.fa-square-quote{
+    color: green;
+}
+.p1{
+
+    padding-top: 22%;
+}
+
+::after ::before{
+    box-sizing: border-box;
+}
+.pic1{
+    background-image: url(p1.png);
+    padding: 5%;
+    background-position: center;
+    background-repeat: no-repeat;
+ width: 10vw;
+ height: 10vh;
+    
+}
+.pic2{
+    background-image: url(pi2.png);
+   padding: 5%;
+   background-position: center;
+   background-repeat: no-repeat;
+width: 5vw;
+height: 5vh;
+}
+.pic3{
+    background-image: url(partner3.png);
+   padding: 5%;
+   background-position: center;
+   background-repeat: no-repeat;
+width: 10vw;
+height: 10vh;
+}
+.pic4{
+    background-image: url(partner4.png);
+   padding: 5%;
+   background-position: center;
+   background-repeat: no-repeat;
+width: 10vw;
+height: 10vh;
+}
+.pic5{
+    background-image: url(partner5.png);
+   padding: 5%;
+   background-position: center;
+   background-repeat: no-repeat;
+width: 10vw;
+height: 10vh;
+}
+.pic6{
+    background-image: url(partner6.png);
+   padding: 5%;
+   background-position: center;
+   background-repeat: no-repeat;
+width: 100vw;
+height: 10vh;
+}
+.pic7{
+    background-image: url(partner7.png);
+   padding: 5%;
+   background-position: center;
+   background-repeat: no-repeat;
+width: 100vw;
+height: 10vh;
+}
+.pic8{
+    background-image: url(partner8.png);
+   padding: 5%;
+   background-position: center;
+   background-repeat: no-repeat;
+width: 100vw;
+height: 10vh;
+}
+.pic9{
+    background-image: url(partner9.png);
+   padding: 5%;
+   background-position: center;
+   background-repeat: no-repeat;
+width: 100vw;
+height: 10vh;
+}
+.img3{
+    background-image: url(digital-marketing.png);
+    width: 35vw;
+    height: 72vh;
+    margin-right: 10%;
+}
+.fa-check{
+    color: blue;
+}
+.im3{
+    margin-left: 10%;
+    padding-top: 5%;
+}
+.nu1{
+    margin-left: 10%;
+}
+.c1{
+    margin-top: 12%; 
+}
+.fa-gift{
+    color: blue;
+}
+.fa-heart{
+    color: orangered;
+
+}
+.fa-award{
+    color: green;
+}
+.fa-basket-shopping{
+    color: orangered;
+}
+.fa-bell{
+    color: yellow;
+}
+
+.pict1{
+    background-image: url(team001.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20vw;
+    height: 65vh;
+}
+.pict2{
+    background-image: url(team002.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20vw;
+    height: 65vh;
+}
+.pict3{
+    background-image: url(team003.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 20vw;
+    height: 65vh;
+}
+.fa-square-twitter{
+    color: lightblue;
+}
+.fa-square-instagram{
+    color: red;
+}
+.fa-microphone{
+    color: blue;
+}
+.fa-square-envelope{
+    color: #c71585;
+}
+.fa-star{
+    color: yellow;
+}
+.fa-star-half-stroke{
+    color: yellow;
+}
+.v1{
+    padding-top: 7%;
+    margin-left: 6%;
+}
+.v2{
+    margin-left: 6%;
+}
+.v3{
+    margin-left: 6%;
+}
+.d1{
+    float: inline-end;
+}
+.fa-circle-check{
+    color: blue;
+}
+.mi1{
+    color: blue;
+    background-color: white;
+    border-color: blue;
+    padding: 7px;
+    margin-left: 26%;
+}
+.mi1:hover{
+   background-color: blue;
+   color: white;
+
+}
+.mi1:active{
+    background-color: blue;
+}
+.mi2{
+    color:white;
+    background-color: blue;
+    border-color: blue;
+    padding: 7px;
+    margin-left: 26%;
+}
+.mi2:hover{
+   background-color: darkblue;
+   color: white;
+
+}
+.mi2:active{
+    background-color: blue;
+}
+
+#g1{
+    color: green;
+    font-size:2.5em;
+}
+.fa-users{
+    color: blue;
+    font-size: 2.5em;
+}
+#bell{
+color: yellow;
+font-size: 2.5em;
+}
+.fa-gear{
+    color: blue;
+    font-size: 2.5em;
+}
+.fa-money-bill{
+    color: orangered;
+    font-size: 2.5em;
+}
+.fa-message{
+    color: green;
+    font-size: 2.5em;
+}
+.img4{
+    background-image: url(testimonials-woman.jpg);
+    background-repeat: no-repeat;
+    width: 50vw;
+    height: 80vh;
+}
+.kk{
+    margin-left: 3%;
+    padding-top: 10%;
+}
+.h{
+    padding-top: 15%;
+}
+.ib1{
+    background-image: url(blog4.jpg);
+
+    width: 40vw;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ib2{
+    background-image: url(blog2.jpg);
+
+    width: 40vw;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ib3{
+    background-image: url(blog3.jpg);
+
+    width: 40vw;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.fa-location-dot{
+    color: blue;
+}
+.a1{
+    text-decoration: none;
+    overflow: hidden;
+    color: lightgray;
+}
+#e1{
+    color: blue;
+}
+.fa-phone{
+    color: blue;
+}
+#t1{
+    color: blue;
+    font-size: 1.5em;
+    padding:10px ;
+
+}
+#t2{
+    color: purple;
+    font-size: 1.5em;
+padding:10px ;
+ 
+}
+.fa-whatsapp{
+    color: green;
+    font-size: 1.5em;
+padding:10px ;
+}
+.fa-google{
+    color: blue;
+    font-size: 1.5em;
+    padding:10px ;
+
+}
+.fa-github{
+    color: #c71585;
+    font-size: 1.5em;
+    padding:10px ;
+
+}
